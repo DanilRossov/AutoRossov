@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoRossov</string>
+    <string name="user">Пользователь:</string>
+    <string name="password">Пароль:</string>
+    <string name="login_name">Введите имя</string>
+    <string name="login_pass">Введите пароль</string>
+    <string name="login">Войти</string>
+    <string name="auth">Авторизация</string>
+    <string name="accept">Авторизация</string>
+</resources>
